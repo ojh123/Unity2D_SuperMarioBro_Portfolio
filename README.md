@@ -13,6 +13,8 @@
 + C#
   
 + Window 10
+  
++ Visual Studio 2019
 ## 3. 개발내용
 
 ## 4. 기술문서
