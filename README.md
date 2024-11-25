@@ -29,6 +29,6 @@
 + 사운드 및 UI
 
 ## 4. 기술문서
-
+<https://docs.google.com/presentation/d/1zNLUlZSaZhcvmO9Z7eN5FmjGA4BccP1eFzK99_hYyiE/edit#slide=id.p>
 ## 5. 플레이영상
 
