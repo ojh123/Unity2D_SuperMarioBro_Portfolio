@@ -27,9 +27,12 @@
 + 점프
 <img src="https://github.com/user-attachments/assets/45011358-cc8f-43c3-8643-7474288a71b0">
 
-+ 적과의 상호작용 
++ 적과의 상호작용
+<img src="https://github.com/user-attachments/assets/c7649d85-aa31-4406-8fad-180035bd9386">
+<img src="https://github.com/user-attachments/assets/6310daa3-d7e6-460b-95fe-52899f49c2fc">
+
 + 카메라 조절
-### 3-2 레벨 디자인 및 아이템
+### 3-2 아이템
 + 맵, 장애물, 아이템
 ### 3-3 적
 + 캐릭터와 상호작용, 애니메이션
