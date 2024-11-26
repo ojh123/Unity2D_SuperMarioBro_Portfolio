@@ -33,7 +33,8 @@
 <img src="https://github.com/user-attachments/assets/b5988df6-4e6d-47ae-912c-7e54cb68f02e" width="49%" height="300">
 
 ### 3-2 아이템
-+ 맵, 장애물, 아이템
++ 크기 증가 버섯
+<img src="https://github.com/user-attachments/assets/04d2d580-3832-49a8-981e-00bdf3594870 width="49%" height="300">
 ### 3-3 적
 + 캐릭터와 상호작용, 애니메이션
 ### 3-4 기타
