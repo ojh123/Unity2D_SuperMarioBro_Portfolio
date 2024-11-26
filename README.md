@@ -23,7 +23,7 @@
 + 이동
 <img src="https://github.com/user-attachments/assets/5d7a5adf-922a-429d-849b-84729719d879">
 
-
+<br>
 + 점프
 <img src="https://github.com/user-attachments/assets/45011358-cc8f-43c3-8643-7474288a71b0">
 
