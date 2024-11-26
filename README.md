@@ -25,11 +25,11 @@
 
 
 + 점프
-<img src="https://github.com/user-attachments/assets/45011358-cc8f-43c3-8643-7474288a71b0">
+<img src="https://github.com/user-attachments/assets/45011358-cc8f-43c3-8643-7474288a71b0" width="49%" height="300">
 
 + 적과의 상호작용
-<img src="https://github.com/user-attachments/assets/c7649d85-aa31-4406-8fad-180035bd9386">
-<img src="https://github.com/user-attachments/assets/6310daa3-d7e6-460b-95fe-52899f49c2fc">
+<img src="https://github.com/user-attachments/assets/c7649d85-aa31-4406-8fad-180035bd9386" width="49%" height="300">
+<img src="https://github.com/user-attachments/assets/6310daa3-d7e6-460b-95fe-52899f49c2fc" width="49%" height="300">
 
 + 카메라 조절
 ### 3-2 아이템
