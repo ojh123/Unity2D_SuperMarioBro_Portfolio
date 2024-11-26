@@ -37,6 +37,7 @@
 <img src="https://github.com/user-attachments/assets/04d2d580-3832-49a8-981e-00bdf3594870" width="49%" height="300">
 
 + 스타
+<img src="https://github.com/user-attachments/assets/1e15bb65-8458-4847-a899-f0f14c154467" width="49%" height="300">
 
 + 플라워
 
