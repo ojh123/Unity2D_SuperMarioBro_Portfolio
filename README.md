@@ -30,7 +30,7 @@
 + 적과의 상호작용
 <img src="https://github.com/user-attachments/assets/c7649d85-aa31-4406-8fad-180035bd9386" width="49%" height="300">
 <img src="https://github.com/user-attachments/assets/6310daa3-d7e6-460b-95fe-52899f49c2fc" width="49%" height="300">
-<img src="https://github.com/user-attachments/assets/b5988df6-4e6d-47ae-912c-7e54cb68f02e" width="50%" height="300">
+<img src="https://github.com/user-attachments/assets/b5988df6-4e6d-47ae-912c-7e54cb68f02e" width="49%" height="300">
 
 ### 3-2 아이템
 + 맵, 장애물, 아이템
