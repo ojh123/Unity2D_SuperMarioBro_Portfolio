@@ -22,6 +22,7 @@
 ### 3-1 캐릭터 조작
 + 이동
 <img src="https://github.com/user-attachments/assets/5d7a5adf-922a-429d-849b-84729719d879">
+
 + 점프
 + 적과의 상호작용 
 + 카메라 조절
