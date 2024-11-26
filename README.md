@@ -20,7 +20,7 @@
   
 ## 3. 개발내용
 ### 3-1 캐릭터 조작
-++ 이동
+#### 이동
 <img src="https://github.com/user-attachments/assets/5d7a5adf-922a-429d-849b-84729719d879">
 
 + 점프
