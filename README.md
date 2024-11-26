@@ -40,6 +40,7 @@
 <img src="https://github.com/user-attachments/assets/1e15bb65-8458-4847-a899-f0f14c154467" width="49%" height="300">
 
 + 플라워
+<img src="https://github.com/user-attachments/assets/6a30ec43-eb78-402f-863f-a2354b133723" width="49%" height="300">
 
 ### 3-3 적
 + 캐릭터와 상호작용, 애니메이션
