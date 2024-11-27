@@ -48,4 +48,5 @@
 + 사운드 및 UI
   
 ## 4. 플레이영상
+<https://www.youtube.com/watch?v=7aGZTMh1ons>
 
